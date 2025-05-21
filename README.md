@@ -1,6 +1,6 @@
-# Driving Intelligence Evaluation Interview Dataset
+# Driving Evaluation Interview Dataset
 
-This repository contains the interview dataset and knowledge graphs for the paper:  
+This repository contains the post-driving interview dataset and knowledge graphs for the paper:  
 **"A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation"**
 
 ## 📁 Dataset Structure
@@ -17,7 +17,7 @@ This repository contains the interview dataset and knowledge graphs for the pape
 └── [audio/text files] # Optimised (fluency + ASR error correction) + translated to English
 
 
-## 🎯 Purpose
+## 🎯 Content Description
 - **Knowledge Graphs**: Structured representations (`JSON`) of driver/passenger interview semantics.
 - **Optimised Interviews**: Raw interviews post-processed for:
   - **Fluency improvement** (LLM-based text optimisation)

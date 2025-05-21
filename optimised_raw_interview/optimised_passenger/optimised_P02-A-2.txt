@@ -1,0 +1,412 @@
+**Speaker 1:**
+So, I'll take a look at this video in a bit. In the meantime, can you find that thing? Do you often travel by car? Is it usually long-distance or short-distance?
+
+**Speaker 2:**
+Mostly within Beijing. Typically, it takes about thirty to forty minutes.
+
+**Speaker 1:**
+Do you usually take public transportation like buses?
+
+**Speaker 2:**
+Yes, I often take the subway and buses.
+
+**Speaker 1:**
+How long do you usually ride?
+
+**Speaker 2:**
+For the subway, it might be around an hour.
+
+**Speaker 1:**
+Got it. How do you feel when you ride in our vehicle?
+
+**Speaker 2:**
+I think it's very smooth.
+
+**Speaker 1:**
+Can you be more specific? What kind of smoothness are you talking about?
+
+**Speaker 2:**
+Well, first of all, the driver doesn't drive too fast. He follows the rules very well. For example, he stops for pedestrians and stays within the lane without crossing the lines. Especially in busy areas where people often cut across lanes, he doesn't do that. The overall speed is also quite consistent without much fluctuation.
+
+**Speaker 1:**
+So, how do you rate his driving skills?
+
+**Speaker 2:**
+I think his driving skills are good, but it's hard to tell when he's driving slowly.
+
+**Speaker 1:**
+Do you drive often?
+
+**Speaker 2:**
+No, I don't.
+
+**Speaker 1:**
+But you have a driver's license, right?
+
+**Speaker 2:**
+Yes, but I don't drive much.
+
+**Speaker 1:**
+If you did drive, how do you think you would do?
+
+**Speaker 2:**
+I think I would drive well if I'm calm. If I'm upset, I might drive more aggressively.
+
+**Speaker 1:**
+What do you mean by aggressive?
+
+**Speaker 2:**
+For example, if I see people jaywalking or cars suddenly appearing, I would get very angry.
+
+**Speaker 1:**
+What type of vehicle do you prefer for traveling? Do you prefer electric cars, sports cars, SUVs, or motorcycles?
+
+**Speaker 2:**
+I prefer more spacious and stable cars. Recently, I've been riding electric cars more, and I find the experience quite good.
+
+**Speaker 1:**
+Are you referring to small electric cars?
+
+**Speaker 2:**
+Yes, most new energy vehicles are small electric cars nowadays.
+**Speaker 1:**
+Is the electric car you're referring to a small one? Are there small electric cars? 
+
+**Speaker 2:**
+Yes, most new energy vehicles are like that now.
+
+**Speaker 1:**
+We're going to watch this video, and if you feel any discomfort or have any memorable moments during the viewing, please share them with us. Let's take a look. Do you remember these places?
+
+**Speaker 2:**
+Yes, I remember.
+
+**Speaker 2:**
+Let's start.
+
+**Speaker 1:**
+How do you feel at this moment, especially when turning?
+
+**Speaker 2:**
+The turns are very smooth.
+
+**Speaker 2:**
+You can keep playing. The car maintains a certain distance from the one in front and follows it steadily.
+
+**Speaker 1:**
+How do you feel about that?
+
+**Speaker 2:**
+It's very stable, very steady.
+
+**Speaker 1:**
+What do you think about the speed throughout this process?
+
+**Speaker 2:**
+The speed is very fast but stays below 40 km/h. It never exceeds 40 km/h.
+
+**Speaker 1:**
+Were you looking at the dashboard?
+
+**Speaker 2:**
+Yes, I was.
+
+**Speaker 1:**
+When entering this road, what do you think?
+
+**Speaker 2:**
+It's very standard and compliant. The driver is very cautious.
+
+**Speaker 1:**
+Did you feel any acceleration? Did you notice any acceleration in the car?
+
+**Speaker 2:**
+I didn't really feel any sudden acceleration.
+
+**Speaker 1:**
+What about when the car was approaching?
+
+**Speaker 2:**
+It did slow down a bit.
+
+**Speaker 2:**
+The shaking is due to the uneven road surface. Yes, it shakes a bit. The first thing I noticed was whether the driver used the turn signal. I saw the driver use the turn signal before turning. I think it was manual.
+
+**Speaker 1:**
+How did you feel about that? Did the driver do anything memorable during the drive?
+
+**Speaker 2:**
+Throughout the drive, the driver maintained a long and safe distance from other vehicles. He always kept a safe distance and time buffer.
+
+**Speaker 1:**
+What do you think is a safe distance and time buffer?
+
+**Speaker 2:**
+When the car in front disappears from your view, it means there's almost no chance of a sudden incident. Yes, that's right. From a practical perspective, it might seem a bit slow, but it's definitely safer this way.
+**Speaker 1:**  
+Did he start driving after that?  
+**Speaker 2:**  
+Yes, that's right. From a broader perspective, it might seem a bit slow, but that's how it is.
+
+**Speaker 1:**  
+Did you notice any sudden stops while moving forward?  
+**Speaker 2:**  
+It doesn't seem like there were any.
+
+**Speaker 1:**  
+Was the road clear for fast driving?  
+**Speaker 2:**  
+Yes, it was completely clear. The road could have been driven faster because there were hardly any obstacles.
+
+**Speaker 1:**  
+The road was quite wide.  
+**Speaker 2:**  
+Yes, and you can see that he stopped when he saw a car ahead.
+
+**Speaker 1:**  
+He almost came to a stop.  
+**Speaker 2:**  
+Yes, from that scenario, I wondered if autonomous driving could handle such situations. For example, there were three cars ahead: the first one was turning right, and the other two were turning left. He didn't need to yield to the left-turning cars. When he saw their left turn signals, he immediately started turning left. I think only a human could make such a quick decision.
+
+**Speaker 1:**  
+Very intelligent.  
+**Speaker 2:**  
+Yes, definitely. Such maneuvers, like turning based on turn signals, are something a human would do. Can autonomous systems interpret turn signals that well?
+
+**Speaker 1:**  
+You might think that autonomous driving follows a set process and wouldn't handle such situations as smoothly.  
+**Speaker 2:**  
+Yes, in scenarios like that, it's not impossible for autonomous driving, but I have my doubts.
+
+**Speaker 1:**  
+Did you notice any changes at the entrance?  
+**Speaker 2:**  
+Any changes?
+
+**Speaker 1:**  
+Yes, did you feel any difference in the driver's behavior or the car's performance?  
+**Speaker 2:**  
+The driver seemed to prioritize yielding. He waited until the road was clear before turning, strictly following traffic rules.
+
+**Speaker 1:**  
+So, your overall experience was consistent with that?  
+**Speaker 2:**  
+Yes, he followed the rule of yielding to oncoming traffic before turning right. It might not always be necessary.
+
+**Speaker 2:**  
+In this case, he moved forward slowly, checking the right side for any cars before turning. This cautious approach is not typical for most drivers, who might signal their intention to turn earlier. Some new drivers might wait until the road is completely clear before moving. In this instance, he waited for pedestrians to cross before turning, which might be influenced by your system.
+**Speaker 1:** After the pedestrian has crossed, the driver must wait for the pedestrian to finish crossing before proceeding. In the scenario we discussed, the driver waited patiently for the pedestrian to cross before moving. It seems like the driver was very cautious and aware of the situation.
+
+**Speaker 1:** Do you think the driver was experienced or a new driver?
+
+**Speaker 2:** I think he was an experienced driver.
+
+**Speaker 1:** Why do you think so?
+
+**Speaker 2:** Just from his demeanor and the way he handled the situation. He had the typical demeanor of a seasoned taxi driver, especially with his Beijing accent. It seemed like he had been driving in Beijing for a long time.
+
+**Speaker 1:** How old do you think the driver was? I didn't get a good look.
+
+**Speaker 2:** He seemed to be around 40 years old.
+
+**Speaker 1:** How was his driving behavior?
+
+**Speaker 2:** I didn't pay much attention, but he drove quite properly.
+
+**Speaker 1:** Do you think new drivers or experienced drivers tend to drive more cautiously?
+
+**Speaker 2:** New drivers tend to drive more cautiously because they are still following the rules strictly. Experienced drivers might be more relaxed but still follow the rules.
+
+**Speaker 1:** Approximately how long did your trip take? About 20 minutes?
+
+**Speaker 2:** Yes, around 20 minutes. During this time, did you encounter any pedestrian crossings or traffic lights?
+
+**Speaker 1:** Yes, we did.
+
+**Speaker 2:** We encountered a traffic light at an intersection.
+
+**Speaker 1:** Was it a green light?
+
+**Speaker 2:** Yes, it was green. There was a right turn where the driver had to yield to pedestrians, but he handled it well.
+
+**Speaker 1:** Throughout the trip, did the driver do anything that made you feel unsafe?
+
+**Speaker 2:** No, the entire trip felt very safe. The driver was very cautious.
+
+**Speaker 1:** In general, what do you think constitutes safe driving?
+
+**Speaker 2:** Safe driving involves not rushing, yielding to pedestrians, and following traffic rules. For example, when making a right turn, a driver should wait for oncoming traffic to pass before turning. However, some drivers might rush and force the oncoming car to slow down. In this case, the driver was very considerate and always let the oncoming cars pass first before making his turn.
+
+**Speaker 1:** Now, let's recall your usual experiences as a passenger. Are there any external factors that make you feel uncomfortable or unsafe during a ride, such as road conditions or other vehicles and pedestrians?
+
+**Speaker 2:** Yes, sometimes external factors like poor road conditions, reckless drivers, or unpredictable pedestrians can make the ride feel unsafe.
+**Speaker 1:** Are there any external factors that make you feel uncomfortable or unsafe during the ride, like road conditions or other pedestrians and vehicles?
+
+**Speaker 2:** External factors? Well, those are generally okay.
+
+**Speaker 1:** So, you don't worry too much about those. What about inside the car, like the behavior of the driver?
+
+**Speaker 2:** That's usually fine too.
+
+**Speaker 1:** Have you ever experienced any unsafe behavior from a driver? Any actions that made you feel particularly unsafe?
+
+**Speaker 2:** Generally, when a driver is aggressive, I feel very unsafe. For example, if the driver starts yelling at other cars or pedestrians, I feel like the driving becomes dangerous. I've experienced this several times, especially when using ride-hailing services.
+
+**Speaker 1:** Do you think the driver today paid attention to your experience as a passenger?
+
+**Speaker 2:** I don't think so.
+
+**Speaker 1:** Why? Didn't you say the driver was driving smoothly?
+
+**Speaker 2:** It might be a matter of interaction. He didn't specifically ask us about our experience or try to make us feel comfortable.
+
+**Speaker 1:** Do you think drivers usually pay attention to the passenger experience? What about bus drivers?
+
+**Speaker 2:** Bus drivers? Definitely not.
+
+**Speaker 1:** When you're in someone else's car, what behaviors make you feel uncomfortable?
+
+**Speaker 2:** When they talk about topics I'm not interested in. It's awkward to tell them I don't want to talk, so I end up having to engage in the conversation.
+
+**Speaker 1:** Do you think this behavior makes the driving unsafe, like if the driver gets distracted?
+
+**Speaker 2:** It depends. If they're just talking, it's fine. But if they turn to look at me while talking or take one hand off the wheel to gesture, that's dangerous. Or if they're on the phone while driving, that's very risky.
+
+**Speaker 1:** If you were driving, do you think any of your habits from driving school might make passengers feel uncomfortable or unsafe?
+
+**Speaker 2:** In driving school, I had habits like sudden braking and sudden acceleration.
+
+**Speaker 1:** So, you think these behaviors would make passengers uncomfortable?
+
+**Speaker 2:** Yes, especially sudden braking and sudden acceleration.
+**Speaker 1:**
+In your daily driving experiences, are there any behaviors from other drivers that make you uncomfortable?
+
+**Speaker 2:**
+Yes, like when other drivers suddenly accelerate or brake hard.
+
+**Speaker 1:**
+So, sudden acceleration and hard braking make you uncomfortable?
+
+**Speaker 2:**
+Exactly, sudden acceleration and hard braking definitely make me feel uneasy.
+
+**Speaker 1:**
+What do you think makes a good driver? Feel free to share your thoughts. What qualities or actions make you consider someone a professional driver?
+
+**Speaker 2:**
+I think a professional driver should drive smoothly. The most important aspect is maintaining a steady pace and choosing routes that are time-efficient to reach the destination on time. These two elements are crucial.
+
+**Speaker 1:**
+You seem to value punctuality. So, when you take a taxi, you pay a lot of attention to the time, right? You mentioned that you think today's driver is experienced. What do you think distinguishes an experienced driver from a novice? What makes you feel that today's driver is experienced?
+
+**Speaker 2:**
+When I say today's driver is experienced, it's based on the feeling I get from their demeanor and driving style. Experienced drivers usually talk less and drive more confidently.
+
+**Speaker 1:**
+What do you think are the characteristics of a novice driver?
+
+**Speaker 2:**
+I think novice drivers often don't know the routes well. That's a significant issue.
+
+**Speaker 1:**
+You haven't driven on the road before, right? How do you think you would handle driving on the road?
+
+**Speaker 2:**
+I would be extremely cautious. For example, when approaching a pedestrian crossing, I would be very careful because I don't fully trust my reaction time and skills. I would need to look ahead and ensure it's safe before crossing.
+
+**Speaker 1:**
+Regarding our experiment today, I have a question for you. What do you think are the differences between autonomous driving and human driving? Are there aspects of autonomous driving that you think can't match human driving?
+
+**Speaker 2:**
+When it comes to autonomous driving, I have some concerns about its safety, especially on highways and in complex traffic situations. There's always a question of whether it's reliable and safe.
+
+**Speaker 1:**
+So, you have some trust issues with it?
+
+**Speaker 2:**
+Yes, particularly in handling subtle issues.
+**Speaker 1:**
+Do you sometimes feel a lack of trust?
+
+**Speaker 2:**
+Yes, for example, when it comes to handling subtle issues, I think people have different abilities. For instance, in the scenario I mentioned earlier, the driver was about to make a left turn and saw three cars approaching. The first car was turning right, so the driver waited for it to pass before making the left turn. But what about the other two cars behind it? They might also want to turn left.
+
+**Speaker 2:**
+So, after the first car turned right, the driver could have made the left turn without any collision with the oncoming car. But how does one capture these subtle signals? For example, the second car that wanted to turn left was slowly moving to the left. At what point does the driver realize that this car is actually turning left and not right, so they don't need to yield? Do you understand what I mean? These subtle signals are hard to judge based solely on logic.
+
+**Speaker 1:**
+Yes, these are very small details.
+
+**Speaker 2:**
+Yes, the understanding of these subtle signals by humans and algorithms can be quite different.
+
+**Speaker 1:**
+So, do you think the recent drive was controlled by a human or an autonomous system?
+
+**Speaker 2:**
+I lean towards it being human-controlled. As you mentioned, those subtle signals are hard to interpret.
+
+**Speaker 1:**
+Like during turns, for example. Are there any other aspects besides these subtle points?
+
+**Speaker 2:**
+Yes, there's also the issue of turn signals. The timing of when the turn signal is activated and the sound it makes felt very synchronized to me. I specifically observed this.
+
+**Speaker 1:**
+If the recent drive was actually autonomous, with the driver just pretending to drive, would you feel any different? Comparing your current feelings to those during the drive, would there be any difference?
+
+**Speaker 2:**
+I don't think so. If it was autonomous, it was done very well.
+
+**Speaker 1:**
+How does it compare to your usual driving experiences?
+
+**Speaker 2:**
+The experience is definitely different. As I mentioned, autonomous driving tends to adopt very conservative driving methods.
+**Speaker 1:** The experience must be different. The usual driving experience is definitely not the same as the one with autonomous driving. As I mentioned earlier, the autonomous driving system adopts very conservative driving methods, so it is definitely slower in terms of time. If I compare human driving with autonomous driving, based on my recent experience, I would say that autonomous driving is more time-consuming because it waits for many things and doesn't take aggressive actions. It tends to give more space to human drivers on the road, right?
+
+**Speaker 2:** Yes, so today you didn't feel that way?
+
+**Speaker 1:** Today, I did feel that way. Yes, I did feel that way.
+
+**Speaker 2:** Were there any moments when you felt like the car wasn't driven by a human?
+
+**Speaker 1:** There were some moments. Yes, there were moments when it felt different from human driving habits. For example, when I was making a turn and there was a pedestrian crossing on the right side. A good-natured driver would wait, but a more impatient or less considerate driver might try to push through, forcing the pedestrians to wait. In such situations, the autonomous system behaved like a very considerate driver.
+
+**Speaker 2:** So, today's driver was very considerate, right?
+
+**Speaker 1:** Yes, exactly. When you approach intersections without traffic signals, how do you judge the intentions of vehicles? Do you look for signs that they are turning left or right?
+
+**Speaker 2:** If I were a pedestrian, I would first look at the turn signals. Usually, when a vehicle is about to turn, it slows down, which is another signal. So, when there are no traffic lights or pedestrian crossings, I rely on these two indicators. Of course, I also maintain a safe distance from the road.
+
+**Speaker 1:** What do you consider a safe distance?
+
+**Speaker 2:** It depends on the speed of the vehicle, but generally, I think at least 50 meters is safe. Sometimes 30 meters might be enough, but 50 meters is safer.
+
+**Speaker 1:** Would you choose to keep getting closer to the car, or would you just cross quickly?
+
+**Speaker 2:** If I think it's safe enough, I would cross quickly.
+
+**Speaker 1:** So, you wouldn't inch forward bit by bit?
+
+**Speaker 2:** No, I wouldn't. If you inch forward, it doesn't give a clear signal to the driver. For example, if a driver sees someone crossing quickly, they know to stop.
+Speaker 1: So, you wouldn't do that. Because if you cross little by little, it doesn't give a clear signal to the driver. For example, if a driver sees someone crossing the road quickly, they get that information and can take appropriate measures.
+
+Speaker 2: Right.
+
+Speaker 1: Would you wait until you're sure there are no cars before you cross?
+
+Speaker 2: Not necessarily. I just judge the distance. When I feel it's safe enough, I start crossing.
+
+Speaker 1: Okay, our interview is now over. Thank you very much for your participation today.
+
+Speaker 2: No problem.
+
+Speaker 1: Are you going to wait for him to leave?
+
+Speaker 2: No, I can go directly.
+
+Speaker 1: I'll turn this off and end the recording. Your personal information will not be disclosed, so please don't worry. 
+
+Speaker 2: Okay, thank you.

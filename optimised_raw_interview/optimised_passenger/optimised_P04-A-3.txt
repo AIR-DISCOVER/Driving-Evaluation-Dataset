@@ -1,0 +1,243 @@
+**Speaker 1:**
+We need you to speak a bit louder for the recording. Let's start. You are the main subject of this experiment. How did you feel about the driving experience in our car?
+
+**Speaker 1:**
+What did you think of the driver's skills? Any general thoughts?
+
+**Speaker 2:**
+Not very good. It seems like there was no proper preparation.
+
+**Speaker 1:**
+We are going to review the video of our experiment. If at any point during the video you feel uncomfortable or unsafe, please let us know. I will also ask questions, and you can interrupt me anytime if you need to clarify something.
+
+**Speaker 1:**
+This is the third time. During the first time, there was an issue with the equipment, and we had to redo the route because of a navigation error.
+
+**Speaker 2:**
+Yes, the driver missed the left turn twice. The first time, he just drove past it.
+
+**Speaker 1:**
+How did you feel when the driver missed the turn?
+
+**Speaker 2:**
+After he missed the turn, he had to take a longer route.
+
+**Speaker 1:**
+So, he had to make a U-turn. Did that make you feel frustrated? Can you elaborate?
+
+**Speaker 2:**
+It felt like we were just going in circles.
+
+**Speaker 1:**
+Was the delay because of traffic congestion?
+
+**Speaker 2:**
+We missed the turn and then couldn't figure out the correct route. The navigation system was confusing, and it took a while to recalibrate.
+
+**Speaker 1:**
+Did the service feel unstable at that point?
+
+**Speaker 2:**
+Yes, it was very slow and there were some strange noises.
+
+**Speaker 1:**
+Was it better the third time?
+
+**Speaker 2:**
+The second time was still problematic.
+
+**Speaker 1:**
+What stood out to you? For example, when the navigation said to turn left?
+
+**Speaker 1:**
+Was the driving smooth during the first, second, and third attempts?
+
+**Speaker 2:**
+There was definitely an issue. The second time, I noticed a stationary car that we almost hit.
+
+**Speaker 1:**
+So, during the implementation, you felt the traffic flow was not managed well?
+
+**Speaker 2:**
+Yes, it was a white taxi. I pressed the horn the first time.
+
+**Speaker 1:**
+Was it during a yellow or green light?
+
+**Speaker 2:**
+Yes, it was during a yellow light, and I wasn't sure what the driver was trying to do.
+**Speaker 1:** Did you honk?
+
+**Speaker 2:** Yes, the first time. It was at a yellow-green light. I wanted to ask him, but I wasn't sure.
+
+**Speaker 1:** Was it at this moment?
+
+**Speaker 2:** Yes, it was right here when we made a U-turn, just a moment ago.
+
+**Speaker 1:** When you made the U-turn, were there cars behind you honking continuously?
+
+**Speaker 2:** Yes.
+
+**Speaker 1:** How did you feel at that moment?
+
+**Speaker 2:** I was confused because we weren't sure what was happening.
+
+**Speaker 1:** When you heard the honking, what was your emotional response? Did you feel the need to move quickly?
+
+**Speaker 2:** Yes, I felt quite anxious.
+
+**Speaker 1:** So, you said the honking happened at this moment?
+
+**Speaker 2:** No, it wasn't then. It was when the car in front of us stopped. We were the first in line, and it happened three times. The first time we were first in line, the second time we were first again, and the third time as well.
+
+**Speaker 1:** So, when you were second in line and heard the honking, you honked back?
+
+**Speaker 2:** Yes, after a while, I honked back.
+
+**Speaker 1:** How was the acceleration process? Was it smooth?
+
+**Speaker 2:** Yes, it was quite steady.
+
+**Speaker 1:** Did he miss a turn at the first intersection and then take the second right turn?
+
+**Speaker 2:** Yes, he missed the first right turn and took the second one.
+
+**Speaker 1:** Was this a continuous issue or just at certain times?
+
+**Speaker 2:** It happened occasionally, but I felt it was manageable.
+
+**Speaker 1:** So, the first mistake was at the same intersection, and he missed the turn twice?
+
+**Speaker 2:** No, he drove three times. The second time he missed the turn.
+
+**Speaker 1:** And then you honked?
+
+**Speaker 2:** Yes, the first time today. I didn't honk the first time, but it was a mistake.
+
+**Speaker 1:** Let me ask another question. Outside of this scenario, do you find any other driving situations particularly dangerous or uncomfortable?
+
+**Speaker 2:** In the video, I didn't press any buttons. The first time he missed the turn, it felt uncomfortable.
+
+**Speaker 1:** How did you feel at that moment?
+
+**Speaker 2:** Even though he had driven far, I felt uneasy because he had to correct his mistake.
+
+**Speaker 1:** So, you felt it was manageable to correct the mistake?
+
+**Speaker 2:** Yes, I felt it was something he could handle.
+
+**Speaker 1:** Outside of this experience, when you ride with other drivers, what makes you feel unsafe?
+
+**Speaker 2:** For example, if they don't follow the navigation.
+
+**Speaker 1:** How does that make you feel unsafe?
+
+**Speaker 2:** It depends on the situation.
+**Speaker 1:** Do you feel unsafe?
+
+**Speaker 2:** Yes, for example, if the driver doesn't follow the navigation or ignores it.
+
+**Speaker 1:** What kind of danger do you feel in such situations?
+
+**Speaker 2:** It depends on the situation. I might feel that the driver is taking unnecessary risks, or I might think I made a mistake in choosing this route.
+
+**Speaker 1:** Does this affect your sense of safety?
+
+**Speaker 2:** Yes, especially if I'm in a vulnerable situation, like being in a hospital.
+
+**Speaker 1:** Is there anything else that makes you feel unsafe or uncomfortable?
+
+**Speaker 2:** On the highway, if the driver tries to overtake other cars aggressively.
+
+**Speaker 1:** How about comfort? Are there any driving behaviors that make you feel uncomfortable?
+
+**Speaker 2:** Yes, our car is quite low, so I feel every bump and pothole more intensely.
+
+**Speaker 1:** So, the car's low height affects your comfort, right? What about the driver's actions?
+
+**Speaker 2:** Sometimes, the driver doesn't avoid potholes or bumps properly.
+
+**Speaker 1:** Can you give an example?
+
+**Speaker 2:** Yes, like the first time the driver made a sharp turn, it felt abrupt and uncomfortable, even though it was slow.
+
+**Speaker 1:** I see. Is there anything else from this experience that made you uncomfortable?
+
+**Speaker 2:** Yes, the driver took a wrong turn initially.
+
+**Speaker 1:** What do you think makes a good driver? Or what makes a driver less professional?
+
+**Speaker 2:** A good driver should follow the agreed route, maintain speed limits, and not cross lane lines.
+
+**Speaker 1:** What do you think is the biggest difference between an experienced driver and a new driver?
+
+**Speaker 2:** Experienced drivers are more aware of the road conditions and can anticipate potential issues better.
+
+**Speaker 1:** How does this affect your experience?
+
+**Speaker 2:** It makes me feel safer and more comfortable when the driver is experienced.
+
+**Speaker 1:** What do you think autonomous driving can't do as well as a human driver?
+
+**Speaker 2:** Autonomous driving might not handle unexpected situations as well as a human driver. For example, it might not react appropriately to sudden changes or obstacles.
+
+**Speaker 1:** How did you feel about the autonomous driving experience?
+
+**Speaker 2:** Initially, it felt like the car was in control, but later, it felt more like the driver was taking over.
+
+**Speaker 1:** Was this during the first, second, or third time?
+
+**Speaker 2:** It was during all three times, but especially noticeable after the first time.
+Speaker 1:
+So, was the third time when it felt more stable?
+
+Speaker 2:
+Yes, the first, second, and third times were all similar. The first time was just the beginning.
+
+Speaker 1:
+By "later," you mean when the driving felt more stable?
+
+Speaker 2:
+Yes, think about it after the UI.
+
+Speaker 1:
+Let's assume the car we just rode in was actually self-driving, with the driver only there as a safety monitor. How do you think that would change the experience?
+
+Speaker 2:
+Hmm?
+
+Speaker 1:
+Was there any part of the route where you felt like the car was being driven by a machine rather than a human?
+
+Speaker 2:
+Maybe during the turns, it felt like that.
+
+Speaker 1:
+Interesting.
+
+Speaker 2:
+Yes, it felt innovative.
+
+Speaker 1:
+One last question, unrelated to the previous ones. If you were a pedestrian crossing an intersection without traffic signals, how would you judge the intentions of non-motorized vehicles or drivers?
+
+Speaker 2:
+If they intend to let me pass, they usually slow down. If not, they maintain their speed.
+
+Speaker 1:
+So, you judge by the speed of the vehicle?
+
+Speaker 2:
+Yes, or sometimes buses have a standard way of indicating.
+
+Speaker 2:
+Alright, we’re done.
+
+Speaker 1:
+Thank you for your participation. It must have been tiring, making three trips.
+
+Speaker 2:
+Yes, I'm a bit tired.
+
+Speaker 1:
+Please fill out the compensation form. Are you heading back now, or do you have other plans?
